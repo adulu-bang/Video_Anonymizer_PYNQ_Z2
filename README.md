@@ -6,7 +6,7 @@ This project implements a **real-time video anonymization** pipeline on the **PY
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Component         | Tool / Framework             |
 |------------------|------------------------------|
@@ -19,7 +19,7 @@ This project implements a **real-time video anonymization** pipeline on the **PY
 
 ---
 
-## 🗂️ Directory Structure
+## Directory Structure
 
 ```bash
 video-anonymizer-fpga/
