@@ -18,10 +18,3 @@ This project implements a **real-time video anonymization** pipeline on the **PY
 | Tools            | Vivado, PYNQ Framework       |
 
 ---
-
-├── scripts/             # Python scripts (face detection, DMA interfacing)
-├── bitstreams/          # Prebuilt .bit and .hwh files
-├── images/              # Sample frame captures (optional)
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
-
