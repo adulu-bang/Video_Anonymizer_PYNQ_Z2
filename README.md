@@ -19,13 +19,6 @@ This project implements a **real-time video anonymization** pipeline on the **PY
 
 ---
 
-## Directory Structure
-
-```bash
-video-anonymizer-fpga/
-│
-├── ip/                  # Custom Verilog IP cores for anonymization
-├── notebooks/           # Jupyter notebooks to run the full pipeline
 ├── scripts/             # Python scripts (face detection, DMA interfacing)
 ├── bitstreams/          # Prebuilt .bit and .hwh files
 ├── images/              # Sample frame captures (optional)
